@@ -17,7 +17,7 @@ fields:
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Plant trees on rooftops
+  default: Plant trees on rooftops - save the planet!
 - type: file
   name: banner_image
   label: Hero Image
