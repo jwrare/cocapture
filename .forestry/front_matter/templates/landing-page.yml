@@ -25,16 +25,6 @@ fields:
   config:
     maxSize: '2'
   default: "/uploads/2018/11/04/depositphotos_14222158-stock-photo-green-and-white-checkerboard-with-1.jpg"
-- type: field_group
-  name: hero_button
-  label: Hero Button
-  fields:
-  - type: text
-    name: text
-    label: Text
-  - type: text
-    name: href
-    label: Link
 - type: textarea
   name: textline
   label: Description
